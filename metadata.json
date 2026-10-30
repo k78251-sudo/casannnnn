@@ -1,0 +1,6 @@
+{
+  "name": "Vértice Academia | Estrutura Premium e Alta Performance",
+  "description": "Landing page oficial da Vértice Academia. Treinamento de força, funcional, spinning e lutas em um ambiente sofisticado com acompanhamento de excelência. Agende sua primeira aula gratuita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
